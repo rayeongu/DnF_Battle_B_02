@@ -122,3 +122,8 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
 DnF_Battle/.classpath
 DnF_Battle/.project
+
+# End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
+DnF_Battle/.classpath
+DnF_Battle/.project
+Servers/
