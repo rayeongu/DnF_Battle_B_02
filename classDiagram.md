@@ -1,6 +1,12 @@
 ```mermaid
 
 classDiagram
+        class Attack_Monster_UI {
+                <<boundary>>
+        }
+        class Create_Character_UI {
+                <<boundary>>
+        }
         class 캐릭터 {
             <<abstract>>
             #String 캐릭터명
