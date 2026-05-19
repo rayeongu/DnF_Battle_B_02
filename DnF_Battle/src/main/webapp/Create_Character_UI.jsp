@@ -70,7 +70,6 @@
         </form>
     </div>
 
-    <%-- 폼이 제출되었을 때만 결과 출력 영역 렌더링 --%>
     <% if (isSubmitted) { %>
         <div class="box">
             <h3 style="margin-top: 0; color: #58a6ff;">[캐릭터 생성 정보]</h3>
