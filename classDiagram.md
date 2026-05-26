@@ -41,7 +41,7 @@ classDiagram
             +캐릭터 캐릭터생성(String 플레이어id, String 캐릭터명, String 직업, int 레벨)
             +String 몬스터공격(String 플레이어id, 캐릭터 character)
         }
-    Create_Character_UI --|> 캐릭터 : 상속 (Generalization)
+    Create_Character_UI --|> 전투 : 상속 (Generalization)
     Attack_Monster_UI --|> 전투 : 상속 (Generalization)
     전사 --|> 캐릭터 : 상속 (Generalization)
     마법사 --|> 캐릭터 : 상속 (Generalization)
